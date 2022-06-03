@@ -1,6 +1,11 @@
 #main {
     margin: 0 auto;
 }
+body {
+    background-color: #FFF2F2;
+    font-family: 'Montserrat', sans-serif;
+    /*font-family: 'Ubuntu', sans-serif;*/
+}
 
 .shubha-pic {
     width: 300px;
