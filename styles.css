@@ -22,6 +22,12 @@ body {
 nav {
     background-color: #EF9F9F;
 }
+.navbar-brand:hover {
+    font-weight: bold;
+}
+.nav-item:hover {
+    font-weight: bold;
+}
 
 .shubha-pic {
     width: 60%;
