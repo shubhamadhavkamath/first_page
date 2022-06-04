@@ -5,6 +5,8 @@
 
 #main img {
     opacity: 0.8;
+    width: 100%;
+    height: auto;
 }
 #main img:hover {
     opacity: 1;
@@ -33,12 +35,12 @@ nav {
     margin: 3%;
 }
 
-.shubha-pic {
+/* .shubha-pic {
     width: 100%;
     height: auto;
     orientation: landscape;
     overflow: hidden;
-}
+} */
 
 .col {
     margin: auto;
