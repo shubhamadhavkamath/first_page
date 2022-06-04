@@ -43,5 +43,21 @@ nav {
 /* STYLE FOR CONTACT*/
 
 #main-contact {
-    margin: auto;
+    margin: 0 auto;
+    padding: 3% 15%;
+}
+
+.icon {
+    color: #EF9F9F;
+    padding: 5%;
+}
+
+.icon:hover {
+    color: #FFE3A9;
+}
+
+
+.contact-box {
+    text-align: center;
+    padding: 5%;
 }
