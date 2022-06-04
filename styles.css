@@ -34,8 +34,8 @@ nav {
 }
 
 .shubha-pic {
-    width: 60%;
-    height: 40%;
+    width: 100%;
+    height: auto;
     orientation: landscape;
     overflow: hidden;
 }
