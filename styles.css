@@ -29,6 +29,10 @@ nav {
     font-weight: bold;
 }
 
+.row {
+    margin: 3%;
+}
+
 .shubha-pic {
     width: 60%;
     height: 40%;
