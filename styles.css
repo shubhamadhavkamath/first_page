@@ -1,10 +1,10 @@
 #main {
-    margin: 0 auto;
+    margin: 5% auto;
     padding: 3% 15%;
 }
 
 #main img {
-    opacity: 0.7;
+    opacity: 0.8;
 }
 #main img:hover {
     opacity: 1;
@@ -38,6 +38,10 @@ nav {
 
 .col {
     margin: auto;
+}
+
+.right-col {
+    text-align: right;
 }
 
 /* STYLE FOR CONTACT*/
