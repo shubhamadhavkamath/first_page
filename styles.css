@@ -53,7 +53,7 @@ nav {
 /* STYLE FOR CONTACT*/
 
 #main-contact {
-    margin: 0 auto;
+    margin: 10% auto;
     padding: 3% 15%;
 }
 
@@ -70,4 +70,20 @@ nav {
 .contact-box {
     text-align: center;
     padding: 5%;
+}
+
+/* Styling for about page */
+#about {
+    align-content: center;
+}
+
+#carouselExampleCaptions img {
+    width: 100%;
+    height: auto;
+}
+
+.row-carousel {
+    width: 50%;
+    height: auto;
+    text-align: center;
 }
